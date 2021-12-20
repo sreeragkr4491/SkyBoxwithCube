@@ -1,3 +1,6 @@
+//Perfect output(skybox with cube)
+
+
 //// ********** model loading related errors solved (use all dll files from ogl folder in 
 ////ur project folder and also paste it in computer --> windows --> system32/system64 bit --> 
 ////in this folder just paste it, but before that set all paths of asismps also , then done.)
