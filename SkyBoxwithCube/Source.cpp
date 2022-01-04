@@ -77,7 +77,6 @@ int main()
     }
 
     glfwMakeContextCurrent(window);
-
     glfwGetFramebufferSize(window, &SCREEN_WIDTH, &SCREEN_HEIGHT);
 
     // Set the required callback functions
